@@ -8,8 +8,7 @@
 </p>
 
 ---
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0N827ACQL)
-
+[![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](http://7xpojav.netlify.app/)
 ## Navigation
 - [About](#about)
 - [Features](#features)
